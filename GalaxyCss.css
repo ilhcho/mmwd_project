@@ -1,0 +1,144 @@
+
+body {
+    background:url(Images/background.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+	background-attachment:fixed;
+	
+}
+
+div.mainFrame{
+	width:710px;
+	height:915px;
+	background:linear-gradient(to bottom right, #8E8E8E , black);
+	position: absolute;
+	border-radius:50px;
+	border:7px groove #404040;
+	}	
+	
+	
+	div.timeLine{
+	width:605px;
+	height:20px;
+	background:linear-gradient(#404040 , #282828 );
+	margin-left:50px;
+	}
+
+p.mainSamsung{
+	color: #B8B8B8;
+	text-align:center;
+	font-size:25px;
+	font-family:Arial,sans-serif;
+	font-weight:bold;
+	}
+
+
+div.Battery{margin-left:500px;float: left;}
+
+#Battery{width:30px; height:20px;}
+
+p.timeWifi{color:white;margin-left:540px; margin-top:0px}
+	
+iframe{margin:-5px 0px 0px 50px;}
+
+div.mainScreen{
+	width:605px;
+	height:730px;
+	background: url(http://www.my-iguru.com/ipad/assets/images/ipad-wallpapers/computers/ipad-wallpaper-blue-wall.jpg);
+	margin-top:-8px;
+	margin-left:-10px;
+	}
+
+div.imgAbove{
+	margin:100px 0px 0px 50px;
+	float: left;
+	}
+	
+div.imgAboveNavigation{
+	margin:90px 0px 0px 40px;
+	float: left;
+	}
+div.imgAboveMultimedia{
+	margin:90px 0px 0px 40px;
+	float: left;
+	}
+
+div.imgBelow{
+	margin:20px 0px 0px 50px;
+	float: left;
+	}	
+
+	
+#Introduction{width:90px; height:70px;border-radius:10px;}
+#VisualDesign{width:80px; height:70px;}
+#Navigation{width:90px; height:80px;}
+#Multimedia{width:100px; height:80px;}
+#Usability{width:80px; height:70px;border-radius:10px;}
+#Ownership{width:80px; height:70px;border-radius:10px;}
+#Technique{width:80px; height:70px;border-radius:10px;}
+#Improvement{width:80px; height:70px;border-radius:10px;}
+#References{width:80px; height:70px; border-radius:10px;}
+
+
+
+div.Introduction{
+	background:black;
+	border-radius:50px;
+	color:white;
+	text-align: center;
+	font-weight: bold;
+	width: 95px;
+	opacity: 0.7;
+	margin-left:-2px;
+	}
+
+div.VisualDesign{
+	background:black;
+	border-radius:50px;
+	color:white;
+	text-align: center;
+	font-weight: bold;
+	width: 110px;
+	opacity: 0.7;
+	margin-left:-15px;
+	}
+
+div.Multimedia{
+	background:black;
+	border-radius:15px;
+	color:white;
+	text-align: center;
+	font-weight: bold;
+	width: 100px;
+	opacity: 0.7;
+	margin-left:-7px;
+	}
+	
+div.Technique{
+	background:black;
+	border-radius:15px;
+	color:white;
+	text-align: center;
+	font-weight: bold;
+	width: 90px;
+	opacity: 0.7;
+	margin-left:-5px;
+	}
+	
+div.Improvements{
+	background:black;
+	border-radius:15px;
+	color:white;
+	text-align: center;
+	font-weight: bold;
+	width: 115px;
+	opacity: 0.7;
+	margin-left:-15px;
+	}
+
+div.menuButton{margin-left:170px;margin-top:10px;float:left;}
+div.homeButton{margin-left:50px;margin-top:10px;float:left;}
+div.backButton{margin-left:56px;margin-top:10px;float:left;}
+div.searchButton{margin-left:70px;margin-top:10px;float:left;}
+
+<!-- Here is the right galaxy-->
